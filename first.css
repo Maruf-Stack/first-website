@@ -1,0 +1,23 @@
+.hudai{
+    height: 100px;
+    width: 50%;
+    background-color: rgba(115, 182, 115, 0.315);
+    color: rgba(207, 2, 2, 0.418);
+}
+.mofiz{
+    color: rgba(4, 32, 56, 0.445);
+}
+
+.blog{
+    background-color: powderblue;
+    border: 5px solid yellow;
+    margin: 20px auto;
+    padding: 15px 10px;
+    width: 50%;
+    
+
+}
+.blog p{
+    text-align: justify;
+}
+   
